@@ -79,8 +79,8 @@ kwon_mahalanobis <- function(data, k, U, centroids, m) {
 
 
 
-###a) hangi sonuclari kullanalim 
-#monte carloyla 30 ve 50 kere kod tekrar ediyor ve uzun zaman aliyor
+
+
 
 
 
